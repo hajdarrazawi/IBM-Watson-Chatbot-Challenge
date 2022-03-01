@@ -2,8 +2,8 @@
 Welcome dear students, here you will find all documents, registration, tutorials and other helpful resources you need to get started with the IBM Watson Chatbot Challenge.
 
 ### Registration:
-If you wannt to register or If you have any question regarding the course or the registration do not hesitate please contact: 
-E-mail: Jelko.Muensterkoetter1@ibm.com
+If you wannt to register or If you have any question regarding the course or the registration do not hesitate please contact:
+E-Mail: Jelko.Muensterkoetter1@ibm.com
 
 ### Abstract:
 Master students in groups of 3-5 people work during the spring term 2022 in an independent learning module at the ‘Watson chatbot Challenge’. The module aims are to design enterprise-specific conversational use cases and implement them using state-of- the-art frameworks of IBM Watson Assistant. You will get insights into the conversational design, natural language processing (NLP) in general and specifically in natural language understanding (NLU) as well as  dialogue design. These  virtual assistants aim to create and solve a real business case of real companies. They are presented and evaluated by the companies at a final presentation. 
